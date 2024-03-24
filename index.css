@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 30px 0;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header nav ul li {
+  color: #fff;
+  display: inline;
+  margin-right: 20px;
+}
+a {
+  color: #fff;
+}
+.pro {
+  text-align: center;
+  background-color: rgb(187, 163, 163);
+  width: 80%;
+  margin: 0 auto;
+  padding: 1px 0;
+  margin-bottom: -15px;
+}
+
+.section {
+  padding: 15px 0;
+}
+
+.project {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+.col-sm-4 {
+  text-align: center;
+}
+.pro1 {
+  height: 180px;
+  width: 280px;
+}
+/* eductional qualification */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+th,
+td {
+  /* #ddd */
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+.LN {
+  height: 30px;
+  /* position: absolute; */
+  /* right: 200px;
+    top: 50px; */
+}
+.contact {
+  height: 15px;
+}
